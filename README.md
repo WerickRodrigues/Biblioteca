@@ -12,20 +12,26 @@ Ao executar o main.py, você verá o seguinte menu:
 6. Sair
 
 
-1. Adicionar Livro
+ Adicionar Livro:
+ 
 Para adicionar um livro, selecione a opção 1 e insira as informações solicitadas (título, autor, gênero e se é favorito).
 
-2. Remover Livro
+Remover Livro:
+
 Para remover um livro, selecione a opção 2 e insira o título do livro a ser removido.
 
-3. Listar Livros
+ Listar Livros:
+ 
 Para listar todos os livros, selecione a opção 3. O sistema exibirá todos os livros cadastrados.
 
-4. Buscar Livro
+ Buscar Livro:
+ 
 Para buscar um livro, selecione a opção 4 e insira o termo de busca (título, autor, gênero ou favoritos). O sistema exibirá os livros que correspondem ao termo de busca.
 
-5. Buscar Livros Favoritos
+ Buscar Livros Favoritos:
+ 
 Para buscar livros favoritos, selecione a opção 5 e insira o termo de busca (título, autor ou gênero). O sistema exibirá os livros favoritos que correspondem ao termo de busca.
 
-6. Sair
+ Sair:
+ 
 Para sair do sistema, selecione a opção 6.
